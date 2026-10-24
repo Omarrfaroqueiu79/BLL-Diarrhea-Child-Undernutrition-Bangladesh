@@ -37,8 +37,8 @@ create_prev_panel <- function(outcome_var, panel_title, y_max) {
     geom_errorbar(aes(ymin = ci_lo, ymax = ci_hi), 
                   width = 0.18, linewidth = 0.75, color = "#1E293B") +
     # Text labels placed CLEARLY ABOVE the top whisker (ZERO collision)
-    geom_text(aes(y = ci_hi, label = sprintf("%.1f%%", pct)), 
-              vjust = -0.6, fontface = "bold", size = 3.6, color = "#0F172A") +
+    geom_text(aes(y = 5, label = sprintf("%.1f%%", pct)), 
+              vjust = 0, fontface = "bold", size = 3.8, color = "#0F172A") +
     scale_fill_manual(values = c("#A6C8E0", "#6BAED6", "#FDBB84", "#E34A33")) +
     coord_cartesian(ylim = c(0, y_max)) +
     theme_classic(base_size = 11) +
