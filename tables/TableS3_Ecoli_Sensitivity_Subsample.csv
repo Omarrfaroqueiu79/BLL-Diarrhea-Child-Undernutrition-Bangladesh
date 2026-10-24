@@ -1,0 +1,4 @@
+"Outcome","Sample_Size","Parameter","Beta","SE","CI_95","p_value"
+"HAZ (E. coli Subsample)","N = 1112","log2_bll","-0.098","0.062","(-0.220, 0.024)","0.114"
+"HAZ (E. coli Subsample)","N = 1112","diarrhea","0.006","0.397","(-0.773, 0.785)","0.988"
+"HAZ (E. coli Subsample)","N = 1112","log2_bll:diarrhea","-0.032","0.184","(-0.392, 0.329)","0.863"

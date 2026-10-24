@@ -1,0 +1,9 @@
+# Data files (MICS microdata protected by UNICEF data terms)
+*.sav
+*.dta
+*.rds
+*.zip
+*.tar.gz
+*.RData
+.Rhistory
+.Rproj.user/

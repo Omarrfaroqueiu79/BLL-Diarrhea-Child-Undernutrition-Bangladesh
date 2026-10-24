@@ -1,0 +1,4 @@
+"Outcome","Ref_LowBLL_NoDiarr","aPR_LowBLL_Diarr","aPR_HighBLL_NoDiarr","aPR_HighBLL_Diarr"
+"Stunting (HAZ < -2 SD)","1.00 (Reference)","1.03 (0.79, 1.34)","1.11 (1.02, 1.21)","1.13 (0.94, 1.37)"
+"Wasting (WHZ < -2 SD)","1.00 (Reference)","1.30 (0.91, 1.85)","1.16 (1.02, 1.32)","1.49 (1.14, 1.95)"
+"Underweight (WAZ < -2 SD)","1.00 (Reference)","1.09 (0.84, 1.41)","1.08 (0.99, 1.18)","1.29 (1.07, 1.56)"
